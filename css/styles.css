@@ -1,0 +1,35 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  color: rgb(145, 30, 30);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: rgb(60, 121, 0);
+  text-decoration: none;
+  padding: 20px;
+}
+a:hover {
+  color: rgb(145, 30, 30);
+  text-decoration: underline;
+}
+.img {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+}
+.text {
+  text-align: center;
+}
+.text a {
+  color: rgb(252, 202, 141);
+}
